@@ -170,10 +170,14 @@ ul {
 
     .local {
         margin: auto;
+        height: fit-content;
+        width: fit-content;
     }
 
     .opEnvio {
         margin: auto;
+        height: auto;
+        width: auto;
     }
 
     .pagTalles {
@@ -185,9 +189,13 @@ ul {
 
     .talleElegir {
         margin: auto;
+        height: auto;
+        width: auto;
     }
 
     .talleGuia {
         margin: auto;
+        height: auto;
+        width: auto;
     }
 }
