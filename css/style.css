@@ -170,8 +170,8 @@ ul {
 
     .local {
         margin: auto;
-        height: fit-content;
-        width: fit-content;
+        height: auto;
+        width: auto;
     }
 
     .opEnvio {
@@ -189,13 +189,13 @@ ul {
 
     .talleElegir {
         margin: auto;
-        height: auto;
-        width: auto;
+        height: 200px;
+        width: 200px;
     }
 
     .talleGuia {
         margin: auto;
-        height: auto;
-        width: auto;
+        height: 300px;
+        width: 175px;
     }
 }
