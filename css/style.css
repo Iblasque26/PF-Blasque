@@ -198,4 +198,9 @@ ul {
         height: 300px;
         width: 175px;
     }
+
+    .talleGuia img {
+        height: 200px;
+        width: 160px;
+    }
 }
