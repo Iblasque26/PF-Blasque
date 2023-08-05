@@ -170,7 +170,12 @@ ul {
 
     .local {
         margin: auto;
-        position: relative;
+        height: min-content;
+        width: 350px;
+    }
+
+    .local iframe {
+        width: 350px;
     }
 
     .opEnvio {
@@ -190,6 +195,8 @@ ul {
         margin: auto;
         padding: auto;
         font-size: 0.7rem;
+        height: auto;
+        width: 300px;
     }
 
     .talleGuia {
@@ -197,8 +204,8 @@ ul {
     }
 
     .talleGuia img {
-        height: min-content;
-        width: 400px;
+        height: auto;
+        width: 200px;
     }
 
     .secContacto form {
