@@ -41,14 +41,6 @@ body {
   font-family: "Krub", sans-serif;
 }
 
-@keyframes animacion {
-  0% {
-    font-size: 0.5rem;
-  }
-  100% {
-    font-size: 1.8rem;
-  }
-}
 @keyframes opacidad {
   0% {
     opacity: 0;
@@ -57,12 +49,6 @@ body {
     opacity: 100%;
   }
 }
-.animacion {
-  animation-name: animacion;
-  animation-duration: 5s;
-  animation-timing-function: ease-in-out;
-}
-
 .opacidad {
   animation-name: opacidad;
   animation-duration: 5s;
