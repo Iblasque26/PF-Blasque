@@ -143,9 +143,9 @@ body {
   margin: auto;
 }
 .talleGuia img {
-  display: block;
   height: min-content;
   width: 500px;
+  margin-left: 19px;
 }
 
 @media (max-width: 992px) {
