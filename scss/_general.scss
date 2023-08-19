@@ -15,7 +15,7 @@ body {
     }
 
     100% {
-        font-size: 1.3rem;
+        font-size: 1.8rem;
     }
 }
 
@@ -23,7 +23,7 @@ body {
     0% {
         opacity: 0;
     }
-    
+
     100% {
         opacity: 100%;
     }
@@ -32,13 +32,13 @@ body {
 .animacion {
     animation-name: animacion;
     animation-duration: 5s;
-    animation-timing-function: ease-in;
+    animation-timing-function: ease-in-out;
 }
 
 .opacidad {
     animation-name: opacidad;
     animation-duration: 5s;
-    animation-timing-function: ease-in;
+    animation-timing-function: ease-in-out;
 }
 
 .subtitulo {
