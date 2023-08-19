@@ -145,7 +145,6 @@ body {
 .talleGuia img {
   height: min-content;
   width: 500px;
-  margin-left: 19px;
 }
 
 @media (max-width: 992px) {
@@ -187,6 +186,7 @@ body {
   .talleGuia img {
     height: auto;
     width: 200px;
+    margin-left: 19px;
   }
   .secContacto form {
     width: 350px;
