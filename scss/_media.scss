@@ -1,0 +1,53 @@
+@media (max-width: 992px) {
+    .envios {
+        display: flex;
+        margin: auto;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .local {
+        margin: auto;
+        height: min-content;
+        width: 350px;
+    }
+
+    .local iframe {
+        width: 350px;
+    }
+
+    .opEnvio {
+        margin: auto;
+        height: auto;
+        width: auto;
+    }
+
+    .pagTalles {
+        display: flex;
+        margin: auto;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .talleElegir {
+        margin: auto;
+        padding: auto;
+        font-size: 0.7rem;
+        height: auto;
+        width: 300px;
+    }
+
+    .talleGuia {
+        margin: auto;
+    }
+
+    .talleGuia img {
+        height: auto;
+        width: 200px;
+    }
+
+    .secContacto form {
+        width: 350px;
+        height: min-content;
+    }
+}
